@@ -1,16 +1,22 @@
-<h2 align="center">👋 Heya, visitor! </h2>
-✨ I am the dust lost from Brazil that likes coding and computers. Feel free to look around!
-<br> <br>
-<!--<h5> <i> ✨ L'essentiel est invisible pour les yeux </i> </h5>-->
-<a><img src="https://github-readme-stats.vercel.app/api?username=lostdusty&show_icons=true&theme=material-palenight&count_private=true" alt="github status"/> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostdusty&layout=compact&theme=material-palenight"/> <br> <img src="https://komarev.com/ghpvc/?username=lostdusty&label=Profile%20Views&color=0e75b6&style=flat" alt="gh prof views" /></a>
+<h2 align="center">👋 Merhaba, ziyaretçi! </h2>  
 
-### Some projects for you to take a look:
-> [A Neofetch clone for Huawei routers](https://github.com/lostdusty/doprafetch); <br>
-> [Revived flash game "Filosofighters"](https://github.com/lostdusty/filosofighters); <br>
-> [A study website in portuguese](https://estudos.lostdusty.dev.br); <br>
-> [An alternative client to my school website](https://github.com/AlternativeOn/AlternativeOn); <br>
-> [FastForward - Skips annoying link shortners](https://fastforward.team).
+Bu projeyi [@lostdusty](https://github.com/lostdusty)'den fork ettim ve kendi ihtiyaçlarıma göre özelleştirerek kullanmayı planlıyorum.  
+Amacım, modern, dinamik ve profesyonel bir portfolyo sitesi oluşturarak, yazılım dünyasındaki yetkinliklerimi ve projelerimi sergilemek.  
 
-### Wanna say a hi?
- [Website](https://lostdusty.dev.br) <br> <br>
-<img src="https://dans-things.com/wp-content/uploads/2018/10/FreeInternetExplorerBadge.gif" alt="Oh no your internet failed to load this badge :("/>  <img src="https://dans-things.com/wp-content/uploads/2018/10/NetscapeNow.gif" alt="Oh no your internet failed to load this badge :("/>
+### 💡 Hakkımda  
+Ben **Kerem Mert İzmir**, **Bilgisayar Mühendisliği** öğrencisiyim ve **Fullstack Developer** olarak çalışıyorum.  
+ASP.NET Core ve mikroservis mimarisi konusunda deneyimliyim ve büyük ölçekli projelerde ekip liderliği yaparak  
+sistemlerin verimli ve optimize bir şekilde çalışmasını sağlamaya odaklanıyorum.  
+
+- 🚀 **Teknolojiler**: .NET, ASP.NET Core, Entity Framework Core, RabbitMQ, Redis, PostgreSQL, TypeScript, Next.js, React, Supabase  
+- 🧠 **Uzmanlık Alanlarım**: Web geliştirme, yapay zeka, veri analizi, mikroservis mimarisi, fullstack çözümler  
+- 🔬 **Projelerim**: AFAD Deprem Tahmin Uygulaması, Kaçak Bina Tespit Sistemi, Şirket İçi Mail Hizmeti (Beko Global)  
+
+### 🛠️ Bu Repo Hakkında  
+Bu portfolyo sitesi, profesyonel kimliğimi en iyi şekilde yansıtmak ve geliştirdiğim projeleri tanıtmak için tasarlandı.  
+Yakında burada blog yazılarımı, yazılım dünyasındaki tecrübelerimi ve açık kaynak katkılarımı da paylaşacağım!  
+
+Bu harika başlangıç noktası için teşekkürler [@lostdusty](https://github.com/lostdusty)! 🙌  
+Eğer katkıda bulunmak istersen, pull request açmaktan çekinme! 🚀  
+
+📬 **İletişim**: [LinkedIn](https://www.linkedin.com/in/kker4m/) | [GitHub](https://github.com/kker4m) | [E-posta](mailto:keremmertizmir39@gmail.com)  
